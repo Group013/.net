@@ -1,0 +1,7 @@
+C:\Users\Group018\source\repos\day3\AssignMentEight\bin\Debug\AssignMentEight.exe.config
+C:\Users\Group018\source\repos\day3\AssignMentEight\bin\Debug\AssignMentEight.exe
+C:\Users\Group018\source\repos\day3\AssignMentEight\bin\Debug\AssignMentEight.pdb
+C:\Users\Group018\source\repos\day3\AssignMentEight\obj\Debug\AssignMentEight.csproj.AssemblyReference.cache
+C:\Users\Group018\source\repos\day3\AssignMentEight\obj\Debug\AssignMentEight.csproj.CoreCompileInputs.cache
+C:\Users\Group018\source\repos\day3\AssignMentEight\obj\Debug\AssignMentEight.exe
+C:\Users\Group018\source\repos\day3\AssignMentEight\obj\Debug\AssignMentEight.pdb

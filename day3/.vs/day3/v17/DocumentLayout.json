@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Group018\\source\\repos\\day3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35D44AE6-25A8-4690-9323-10A930C0A321}|ArrayExample\\ArrayExample.csproj|c:\\users\\group018\\source\\repos\\day3\\arrayexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D44AE6-25A8-4690-9323-10A930C0A321}|ArrayExample\\ArrayExample.csproj|solutionrelative:arrayexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D5EEFC-BD36-4708-884B-E0CB5B6D7517}|AssignmentSeven\\AssignmentSeven.csproj|c:\\users\\group018\\source\\repos\\day3\\assignmentseven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D5EEFC-BD36-4708-884B-E0CB5B6D7517}|AssignmentSeven\\AssignmentSeven.csproj|solutionrelative:assignmentseven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7B7409-08BF-4D31-BB87-81DFB3573DF7}|StaticClass\\StaticClass.csproj|c:\\users\\group018\\source\\repos\\day3\\staticclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7B7409-08BF-4D31-BB87-81DFB3573DF7}|StaticClass\\StaticClass.csproj|solutionrelative:staticclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C638BF-B1FD-461D-8043-26EA43E9A04F}|AssignmentTen\\AssignmentTen.csproj|c:\\users\\group018\\source\\repos\\day3\\assignmentten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C638BF-B1FD-461D-8043-26EA43E9A04F}|AssignmentTen\\AssignmentTen.csproj|solutionrelative:assignmentten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A818D7DA-43F3-4339-B829-39F2303C82A1}|AssignmentNine\\AssignmentNine.csproj|c:\\users\\group018\\source\\repos\\day3\\assignmentnine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A818D7DA-43F3-4339-B829-39F2303C82A1}|AssignmentNine\\AssignmentNine.csproj|solutionrelative:assignmentnine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD396835-17E6-4C7E-889D-17B5D7D2776E}|AssignMentEight\\AssignMentEight.csproj|c:\\users\\group018\\source\\repos\\day3\\assignmenteight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD396835-17E6-4C7E-889D-17B5D7D2776E}|AssignMentEight\\AssignMentEight.csproj|solutionrelative:assignmenteight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D3C3BA-3C4F-4FDD-90C4-F90D7DD26992}|AssignmentSix\\AssignmentSix.csproj|c:\\users\\group018\\source\\repos\\day3\\assignmentsix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D3C3BA-3C4F-4FDD-90C4-F90D7DD26992}|AssignmentSix\\AssignmentSix.csproj|solutionrelative:assignmentsix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85A04F1-423B-46AE-9DE5-75BDB28626D8}|AssignMentFive\\AssignMentFive.csproj|c:\\users\\group018\\source\\repos\\day3\\assignmentfive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E85A04F1-423B-46AE-9DE5-75BDB28626D8}|AssignMentFive\\AssignMentFive.csproj|solutionrelative:assignmentfive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DFC67E-C9D9-45C2-A16F-112611E87BE3}|AssignmentThree\\AssignmentThree.csproj|c:\\users\\group018\\source\\repos\\day3\\assignmentthree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DFC67E-C9D9-45C2-A16F-112611E87BE3}|AssignmentThree\\AssignmentThree.csproj|solutionrelative:assignmentthree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F4F114-CAC3-4D9D-9FA4-DDE235329FE0}|AssignMentFour\\AssignMentFour.csproj|c:\\users\\group018\\source\\repos\\day3\\assignmentfour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F4F114-CAC3-4D9D-9FA4-DDE235329FE0}|AssignMentFour\\AssignMentFour.csproj|solutionrelative:assignmentfour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE151C5-45BD-4474-B633-962FB2A07331}|AssignmentTwo\\AssignmentTwo.csproj|c:\\users\\group018\\source\\repos\\day3\\assignmenttwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE151C5-45BD-4474-B633-962FB2A07331}|AssignmentTwo\\AssignmentTwo.csproj|solutionrelative:assignmenttwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318332-16A0-4CC9-8933-02775B3C84CE}|abstract\\abstract.csproj|c:\\users\\group018\\source\\repos\\day3\\abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318332-16A0-4CC9-8933-02775B3C84CE}|abstract\\abstract.csproj|solutionrelative:abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318332-16A0-4CC9-8933-02775B3C84CE}|abstract\\AbstractDemo.csproj|c:\\users\\group018\\source\\repos\\day3\\abstract\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318332-16A0-4CC9-8933-02775B3C84CE}|abstract\\AbstractDemo.csproj|solutionrelative:abstract\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\MS .NET\\Day-3\\OOPExamples\\DifferentTypesOfClasses\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBB10AE-5417-4F63-9566-9CDD3E1BCC6E}|AssignmentOne\\AssignmentOne.csproj|c:\\users\\group018\\source\\repos\\day3\\assignmentone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CBB10AE-5417-4F63-9566-9CDD3E1BCC6E}|AssignmentOne\\AssignmentOne.csproj|solutionrelative:assignmentone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318332-16A0-4CC9-8933-02775B3C84CE}|abstract\\AbstractDemo.csproj|c:\\users\\group018\\source\\repos\\day3\\abstract\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318332-16A0-4CC9-8933-02775B3C84CE}|abstract\\AbstractDemo.csproj|solutionrelative:abstract\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group018\\source\\repos\\day3\\ArrayExample\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Group018\\source\\repos\\day3\\ArrayExample\\Program.cs",
+              "RelativeToolTip": "ArrayExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:01:05.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group018\\source\\repos\\day3\\StaticClass\\Program.cs",
+              "RelativeDocumentMoniker": "StaticClass\\Program.cs",
+              "ToolTip": "C:\\Users\\Group018\\source\\repos\\day3\\StaticClass\\Program.cs",
+              "RelativeToolTip": "StaticClass\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:50:47.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group018\\source\\repos\\day3\\AssignmentTen\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentTen\\Program.cs",
+              "ToolTip": "C:\\Users\\Group018\\source\\repos\\day3\\AssignmentTen\\Program.cs",
+              "RelativeToolTip": "AssignmentTen\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwCAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:36:22.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group018\\source\\repos\\day3\\AssignmentNine\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentNine\\Program.cs",
+              "ToolTip": "C:\\Users\\Group018\\source\\repos\\day3\\AssignmentNine\\Program.cs",
+              "RelativeToolTip": "AssignmentNine\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwC0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:01:44.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group018\\source\\repos\\day3\\AssignMentEight\\Program.cs",
+              "RelativeDocumentMoniker": "AssignMentEight\\Program.cs",
+              "ToolTip": "C:\\Users\\Group018\\source\\repos\\day3\\AssignMentEight\\Program.cs",
+              "RelativeToolTip": "AssignMentEight\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:44:56.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group018\\source\\repos\\day3\\AssignmentSeven\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentSeven\\Program.cs",
+              "ToolTip": "C:\\Users\\Group018\\source\\repos\\day3\\AssignmentSeven\\Program.cs",
+              "RelativeToolTip": "AssignmentSeven\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:19:06.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group018\\source\\repos\\day3\\AssignmentSix\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentSix\\Program.cs",
+              "ToolTip": "C:\\Users\\Group018\\source\\repos\\day3\\AssignmentSix\\Program.cs",
+              "RelativeToolTip": "AssignmentSix\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:13:51.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group018\\source\\repos\\day3\\AssignMentFive\\Program.cs",
+              "RelativeDocumentMoniker": "AssignMentFive\\Program.cs",
+              "ToolTip": "C:\\Users\\Group018\\source\\repos\\day3\\AssignMentFive\\Program.cs",
+              "RelativeToolTip": "AssignMentFive\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:09:01.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group018\\source\\repos\\day3\\AssignMentFour\\Program.cs",
+              "RelativeDocumentMoniker": "AssignMentFour\\Program.cs",
+              "ToolTip": "C:\\Users\\Group018\\source\\repos\\day3\\AssignMentFour\\Program.cs",
+              "RelativeToolTip": "AssignMentFour\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:02:12.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group018\\source\\repos\\day3\\AssignmentThree\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentThree\\Program.cs",
+              "ToolTip": "C:\\Users\\Group018\\source\\repos\\day3\\AssignmentThree\\Program.cs",
+              "RelativeToolTip": "AssignmentThree\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:58:39.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group018\\source\\repos\\day3\\AssignmentTwo\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentTwo\\Program.cs",
+              "ToolTip": "C:\\Users\\Group018\\source\\repos\\day3\\AssignmentTwo\\Program.cs",
+              "RelativeToolTip": "AssignmentTwo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:52:20.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group018\\source\\repos\\day3\\AssignmentOne\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentOne\\Program.cs",
+              "ToolTip": "C:\\Users\\Group018\\source\\repos\\day3\\AssignmentOne\\Program.cs",
+              "RelativeToolTip": "AssignmentOne\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:49:56.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MS .NET\\Day-3\\OOPExamples\\DifferentTypesOfClasses\\Program.cs",
+              "ToolTip": "E:\\MS .NET\\Day-3\\OOPExamples\\DifferentTypesOfClasses\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:45:08.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Group018\\source\\repos\\day3\\abstract\\Customer.cs",
+              "RelativeDocumentMoniker": "abstract\\Customer.cs",
+              "ToolTip": "C:\\Users\\Group018\\source\\repos\\day3\\abstract\\Customer.cs",
+              "RelativeToolTip": "abstract\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:39:14.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Group018\\source\\repos\\day3\\abstract\\Person.cs",
+              "RelativeDocumentMoniker": "abstract\\Person.cs",
+              "ToolTip": "C:\\Users\\Group018\\source\\repos\\day3\\abstract\\Person.cs",
+              "RelativeToolTip": "abstract\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:27:34.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Group018\\source\\repos\\day3\\abstract\\Program.cs",
+              "RelativeDocumentMoniker": "abstract\\Program.cs",
+              "ToolTip": "C:\\Users\\Group018\\source\\repos\\day3\\abstract\\Program.cs",
+              "RelativeToolTip": "abstract\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:26:46.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

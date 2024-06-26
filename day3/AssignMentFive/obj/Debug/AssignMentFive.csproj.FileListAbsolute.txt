@@ -1,0 +1,7 @@
+C:\Users\Group018\source\repos\day3\AssignMentFive\bin\Debug\AssignMentFive.exe.config
+C:\Users\Group018\source\repos\day3\AssignMentFive\bin\Debug\AssignMentFive.exe
+C:\Users\Group018\source\repos\day3\AssignMentFive\bin\Debug\AssignMentFive.pdb
+C:\Users\Group018\source\repos\day3\AssignMentFive\obj\Debug\AssignMentFive.csproj.AssemblyReference.cache
+C:\Users\Group018\source\repos\day3\AssignMentFive\obj\Debug\AssignMentFive.csproj.CoreCompileInputs.cache
+C:\Users\Group018\source\repos\day3\AssignMentFive\obj\Debug\AssignMentFive.exe
+C:\Users\Group018\source\repos\day3\AssignMentFive\obj\Debug\AssignMentFive.pdb

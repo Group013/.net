@@ -1,0 +1,7 @@
+C:\Users\Group018\source\repos\day3\abstract\bin\Debug\@abstract.exe.config
+C:\Users\Group018\source\repos\day3\abstract\bin\Debug\@abstract.exe
+C:\Users\Group018\source\repos\day3\abstract\bin\Debug\@abstract.pdb
+C:\Users\Group018\source\repos\day3\abstract\obj\Debug\AbstractDemo.csproj.AssemblyReference.cache
+C:\Users\Group018\source\repos\day3\abstract\obj\Debug\AbstractDemo.csproj.CoreCompileInputs.cache
+C:\Users\Group018\source\repos\day3\abstract\obj\Debug\@abstract.exe
+C:\Users\Group018\source\repos\day3\abstract\obj\Debug\@abstract.pdb

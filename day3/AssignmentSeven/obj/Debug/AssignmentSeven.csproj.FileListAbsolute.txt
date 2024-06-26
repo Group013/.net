@@ -1,0 +1,7 @@
+C:\Users\Group018\source\repos\day3\AssignmentSeven\bin\Debug\AssignmentSeven.exe.config
+C:\Users\Group018\source\repos\day3\AssignmentSeven\bin\Debug\AssignmentSeven.exe
+C:\Users\Group018\source\repos\day3\AssignmentSeven\bin\Debug\AssignmentSeven.pdb
+C:\Users\Group018\source\repos\day3\AssignmentSeven\obj\Debug\AssignmentSeven.csproj.AssemblyReference.cache
+C:\Users\Group018\source\repos\day3\AssignmentSeven\obj\Debug\AssignmentSeven.csproj.CoreCompileInputs.cache
+C:\Users\Group018\source\repos\day3\AssignmentSeven\obj\Debug\AssignmentSeven.exe
+C:\Users\Group018\source\repos\day3\AssignmentSeven\obj\Debug\AssignmentSeven.pdb

@@ -1,0 +1,7 @@
+C:\Users\Group018\source\repos\day3\StaticClass\bin\Debug\StaticClass.exe.config
+C:\Users\Group018\source\repos\day3\StaticClass\bin\Debug\StaticClass.exe
+C:\Users\Group018\source\repos\day3\StaticClass\bin\Debug\StaticClass.pdb
+C:\Users\Group018\source\repos\day3\StaticClass\obj\Debug\StaticClass.csproj.AssemblyReference.cache
+C:\Users\Group018\source\repos\day3\StaticClass\obj\Debug\StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\Group018\source\repos\day3\StaticClass\obj\Debug\StaticClass.exe
+C:\Users\Group018\source\repos\day3\StaticClass\obj\Debug\StaticClass.pdb

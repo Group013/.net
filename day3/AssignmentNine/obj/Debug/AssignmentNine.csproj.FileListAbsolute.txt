@@ -1,0 +1,7 @@
+C:\Users\Group018\source\repos\day3\AssignmentNine\bin\Debug\AssignmentNine.exe.config
+C:\Users\Group018\source\repos\day3\AssignmentNine\bin\Debug\AssignmentNine.exe
+C:\Users\Group018\source\repos\day3\AssignmentNine\bin\Debug\AssignmentNine.pdb
+C:\Users\Group018\source\repos\day3\AssignmentNine\obj\Debug\AssignmentNine.csproj.AssemblyReference.cache
+C:\Users\Group018\source\repos\day3\AssignmentNine\obj\Debug\AssignmentNine.csproj.CoreCompileInputs.cache
+C:\Users\Group018\source\repos\day3\AssignmentNine\obj\Debug\AssignmentNine.exe
+C:\Users\Group018\source\repos\day3\AssignmentNine\obj\Debug\AssignmentNine.pdb

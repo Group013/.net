@@ -1,0 +1,7 @@
+C:\Users\Group018\source\repos\day3\AssignMentFour\bin\Debug\AssignMentFour.exe.config
+C:\Users\Group018\source\repos\day3\AssignMentFour\bin\Debug\AssignMentFour.exe
+C:\Users\Group018\source\repos\day3\AssignMentFour\bin\Debug\AssignMentFour.pdb
+C:\Users\Group018\source\repos\day3\AssignMentFour\obj\Debug\AssignMentFour.csproj.AssemblyReference.cache
+C:\Users\Group018\source\repos\day3\AssignMentFour\obj\Debug\AssignMentFour.csproj.CoreCompileInputs.cache
+C:\Users\Group018\source\repos\day3\AssignMentFour\obj\Debug\AssignMentFour.exe
+C:\Users\Group018\source\repos\day3\AssignMentFour\obj\Debug\AssignMentFour.pdb

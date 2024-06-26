@@ -1,0 +1,7 @@
+C:\Users\Group018\source\repos\day3\AssignmentTen\bin\Debug\AssignmentTen.exe.config
+C:\Users\Group018\source\repos\day3\AssignmentTen\bin\Debug\AssignmentTen.exe
+C:\Users\Group018\source\repos\day3\AssignmentTen\bin\Debug\AssignmentTen.pdb
+C:\Users\Group018\source\repos\day3\AssignmentTen\obj\Debug\AssignmentTen.csproj.AssemblyReference.cache
+C:\Users\Group018\source\repos\day3\AssignmentTen\obj\Debug\AssignmentTen.csproj.CoreCompileInputs.cache
+C:\Users\Group018\source\repos\day3\AssignmentTen\obj\Debug\AssignmentTen.exe
+C:\Users\Group018\source\repos\day3\AssignmentTen\obj\Debug\AssignmentTen.pdb
