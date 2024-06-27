@@ -1,0 +1,7 @@
+C:\Users\Group018\source\repos\LinkedListEx\LinkedListEx\bin\Debug\LinkedListEx.exe.config
+C:\Users\Group018\source\repos\LinkedListEx\LinkedListEx\bin\Debug\LinkedListEx.exe
+C:\Users\Group018\source\repos\LinkedListEx\LinkedListEx\bin\Debug\LinkedListEx.pdb
+C:\Users\Group018\source\repos\LinkedListEx\LinkedListEx\obj\Debug\LinkedListEx.csproj.AssemblyReference.cache
+C:\Users\Group018\source\repos\LinkedListEx\LinkedListEx\obj\Debug\LinkedListEx.csproj.CoreCompileInputs.cache
+C:\Users\Group018\source\repos\LinkedListEx\LinkedListEx\obj\Debug\LinkedListEx.exe
+C:\Users\Group018\source\repos\LinkedListEx\LinkedListEx\obj\Debug\LinkedListEx.pdb

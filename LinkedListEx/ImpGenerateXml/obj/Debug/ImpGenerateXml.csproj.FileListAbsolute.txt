@@ -1,0 +1,7 @@
+C:\Users\Group018\source\repos\LinkedListEx\ImpGenerateXml\bin\Debug\ImpGenerateXml.exe.config
+C:\Users\Group018\source\repos\LinkedListEx\ImpGenerateXml\bin\Debug\ImpGenerateXml.exe
+C:\Users\Group018\source\repos\LinkedListEx\ImpGenerateXml\bin\Debug\ImpGenerateXml.pdb
+C:\Users\Group018\source\repos\LinkedListEx\ImpGenerateXml\obj\Debug\ImpGenerateXml.csproj.AssemblyReference.cache
+C:\Users\Group018\source\repos\LinkedListEx\ImpGenerateXml\obj\Debug\ImpGenerateXml.csproj.CoreCompileInputs.cache
+C:\Users\Group018\source\repos\LinkedListEx\ImpGenerateXml\obj\Debug\ImpGenerateXml.exe
+C:\Users\Group018\source\repos\LinkedListEx\ImpGenerateXml\obj\Debug\ImpGenerateXml.pdb

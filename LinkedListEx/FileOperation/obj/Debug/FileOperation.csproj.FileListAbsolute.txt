@@ -1,0 +1,7 @@
+C:\Users\Group018\source\repos\LinkedListEx\FileOperation\bin\Debug\FileOperation.exe.config
+C:\Users\Group018\source\repos\LinkedListEx\FileOperation\bin\Debug\FileOperation.exe
+C:\Users\Group018\source\repos\LinkedListEx\FileOperation\bin\Debug\FileOperation.pdb
+C:\Users\Group018\source\repos\LinkedListEx\FileOperation\obj\Debug\FileOperation.csproj.AssemblyReference.cache
+C:\Users\Group018\source\repos\LinkedListEx\FileOperation\obj\Debug\FileOperation.csproj.CoreCompileInputs.cache
+C:\Users\Group018\source\repos\LinkedListEx\FileOperation\obj\Debug\FileOperation.exe
+C:\Users\Group018\source\repos\LinkedListEx\FileOperation\obj\Debug\FileOperation.pdb
